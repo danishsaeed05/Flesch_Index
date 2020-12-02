@@ -27,6 +27,7 @@ rounded to the nearest integer (use the round function rather than ceiling or fl
 ## How to run?
 - Simply clone or download the repository. Navigate to the folder in your terminal, and type ***make***, it will create the executable file.
 - To execute the file, type ***./fleschIndex <fileName.txt>***
+- To remove any object or executtables, type ***make clean***
 - The output will display the following 
     1. The Flesch/legibility index that have been computed
     2. The number of syllables in the input txt file
