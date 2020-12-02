@@ -12,7 +12,7 @@ The following index (reference: Rudolf Flesch, How to Write Plain English, Barne
 **can be rewritten as:**
     - Flesch invented an index to check whether a document is easy to read. To compute the index, you need not look at the meaning of the words.
 
-In order to get calculate the index number, the following is first analyzed :
+**In order to get calculate the index number, the following is first analyzed :**
 1. Count all words in the file. A word is any sequence of characters delimited by white space or the end of a sentence, whether or not it is an actual English word.
 2. Count all syllables in each word. To make this simple, use the following rules:
 • Each group of adjacent vowels (a, e, i, o, u, y) counts as one syllable (for example, the “ea” in “real” counts as one syllable, but the “e..a” in “regal” count as two syllables). However, an “e” at the end of a word does not count as a syllable. Each word has at least one syllable even if the previous rules give a count of zero.
