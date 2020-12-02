@@ -1,0 +1,4 @@
+Flesch Index = 99
+Syllable Count = 96
+Word Count = 70
+Sentence Count = 3
